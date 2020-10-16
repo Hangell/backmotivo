@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": "5.00"
+    },
+    {
+      "id": 2,
+      "name": "Caderno",
+      "price": 15.89
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 625.89
+    },
+    {
+      "id": 4,
+      "name": "Desktop",
+      "price": 2625.89
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.18,
+      "id": 5
+    },
+    {
+      "name": "Maça",
+      "price": "5.00",
+      "id": 6
+    },
+    {
+      "name": "SmarthTV",
+      "price": "5000.0",
+      "id": 7
+    },
+    {
+      "name": "Refrigerante",
+      "price": "7.50",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 10
+    }
+  ]
+}
